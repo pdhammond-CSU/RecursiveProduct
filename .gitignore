@@ -1,0 +1,30 @@
+# Compiled Java files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+*.nar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# Build output
+bin/
+out/
+target/
+build/
+.gradle/
+
+# Local IDE settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# macOS metadata
+.DS_Store
